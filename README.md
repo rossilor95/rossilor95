@@ -17,7 +17,7 @@
 ### :man_technologist: About me:
 I'm a Junior Developer from Italy with a background in Computational Physics. 
 
-- 🔭 I’m currently working on Web Application Development
+- 🔭 I’m currently working as a Web Application Developer
 - 👯 I’m looking to collaborate on any open source project
 - 📫 How to reach me: rossilor95@outlook.it
 - 😄 Pronouns: he/him
