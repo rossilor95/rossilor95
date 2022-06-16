@@ -15,7 +15,7 @@
 ---
 
 ### :man_technologist: About me:
-I'm a Junior Developer from Italy with a background in Computational Physics. 
+I'm a Software Developer from Italy with a background in Computational Physics. 
 
 - 🔭 I’m currently working as a Web Application Developer
 - 👯 I’m looking to collaborate on any open source project
