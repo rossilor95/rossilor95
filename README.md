@@ -19,7 +19,7 @@ I'm a Software Developer from Italy with a background in Computational Physics.
 
 - 🔭 I’m currently working as a Web Application Developer
 - 👯 I’m looking to collaborate on any open source project
-- 📫 How to reach me: rossilor95@outlook.it
+- 📫 How to reach me: rossilor95@gmail.com
 - 😄 Pronouns: he/him
 
 
@@ -28,8 +28,8 @@ I'm a Software Developer from Italy with a background in Computational Physics.
 ### :hammer_and_wrench: Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
