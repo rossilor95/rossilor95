@@ -19,7 +19,7 @@ I'm a Software Developer from Italy with a background in Computational Physics.
 
 - 🔭 I’m currently working as a Web Application Developer
 - 👯 I’m looking to collaborate on any open source project
-- 📫 How to reach me: rossilor95@outlook.com
+- 📫 How to reach me: rossilor95@outlook.it
 - 😄 Pronouns: he/him
 
 
