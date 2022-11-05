@@ -15,10 +15,10 @@
 ---
 
 ### :man_technologist: About me:
-I'm a Software Developer from Italy with a background in Computational Physics. 
+I'm a Software Developer from Italy with a background in Computational Physics and Machine Learning. 
 
-- 🔭 I’m currently working as a Web Application Developer
-- 👯 I’m looking to collaborate on any open source project
+- 🔭 I’m currently working as a Web Application Developer (Backend: Spring + Java/Kotlin, Frontend: React + TypeScript)
+- 👯 I’m looking to collaborate on any open source project. Interested in anything Kotlin, new JS Frameworks (like Qwik) and Rust.
 - 📫 How to reach me: rossilor95@outlook.it
 - 😄 Pronouns: he/him
 
@@ -35,7 +35,7 @@ I'm a Software Developer from Italy with a background in Computational Physics.
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
