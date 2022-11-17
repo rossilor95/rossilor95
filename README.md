@@ -18,7 +18,7 @@
 I'm a Software Developer from Italy with a background in Computational Physics and Machine Learning. 
 
 - 🔭 I’m currently working as a Web Application Developer (Backend: Spring + Java/Kotlin, Frontend: React + TypeScript)
-- 👯 I’m looking to collaborate on any open source project. Interested in anything Kotlin, Go or Zig
+- 👯 I’m looking to collaborate on any open source project. Interested in anything Kotlin, TypeScript or Rust
 - 📫 How to reach me: rossilor95@outlook.it
 - 😄 Pronouns: he/him
 
@@ -32,7 +32,6 @@ I'm a Software Developer from Italy with a background in Computational Physics a
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
