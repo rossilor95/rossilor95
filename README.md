@@ -15,9 +15,9 @@
 ---
 
 ### :man_technologist: About me:
-I'm a Software Developer from Italy with a background in Computational Physics and Machine Learning. 
+I'm a Software Engineer from Italy with a background in Computational Physics and Machine Learning. 
 
-- 🔭 I’m currently working as a Web Application Developer (Backend: Spring + Java/Kotlin, Frontend: React + TypeScript)
+- 🔭 I’m currently working as a Full Stack Engineer (Backend: Spring + Java/Kotlin, Frontend: React + TypeScript)
 - 👯 I’m looking to collaborate on any open source project
 - 📫 How to reach me: rossilor95@outlook.it
 - 😄 Pronouns: he/him
